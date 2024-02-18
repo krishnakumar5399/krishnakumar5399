@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm 👋 Hi, I'm Krishna Kumar, a second-year BE CSE student at Chitkara University 🎓.</h1>
+<h1 align="center">👋 Hi, I'm Krishna Kumar, a second-year BE CSE student at Chitkara University 🎓.</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🌱 I’m currently learning **Javascript and ReactJs.**
